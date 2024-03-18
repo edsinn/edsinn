@@ -1,7 +1,7 @@
 ## Bem vindo! Eu sou Edson Pereira de Carvalho.
 
-- Cursando análise e desenvolvimento de software.
-- Sou técnico de sistemas.
+- 💻 Cursando análise e desenvolvimento de software.
+- 🖥️ Sou técnico de sistemas.
 
 
 <div align="center">
